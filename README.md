@@ -1,8 +1,6 @@
 
- ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 ℕ𝕌𝕃𝕃 𝕍𝕆𝕀𝔻
+   ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 ℕ𝕌𝕃𝕃 𝕍𝕆𝕀𝔻
 
----
-ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 ℕ𝕌𝕃𝕃 𝕍𝕆𝕀𝔻
 
 ⚡ Features (English)
 Internet Diagnostics

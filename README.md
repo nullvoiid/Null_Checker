@@ -1,4 +1,4 @@
-Powered By Null VoiD
+                       Powered By Null VoiD
 
 
 ---
@@ -83,6 +83,5 @@ DNS Hunter
 رمزگذار کانفیگ برای پیامک: معمولاً ارسال کانفیگ‌ها از طریق پیامک مسدود است. این ابزار به شما امکان می‌دهد متن انگلیسی را با کاراکترهای فارسی رمزگذاری کنید و در دستگاه دیگر رمزگشایی کنید.
 
 ENJOY THE CHECKER
-MADE WITH LOVE 
 
 FOR ANY QUESTION OR NEED SUPPORT TEXT ME ON TG t.me/Nu11_VoiD

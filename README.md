@@ -2,6 +2,8 @@
  ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 ℕ𝕌𝕃𝕃 𝕍𝕆𝕀𝔻
 
 ---
+ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 ℕ𝕌𝕃𝕃 𝕍𝕆𝕀𝔻
+
 ⚡ Features (English)
 Internet Diagnostics
 A set of automated tests for different network protocols, DNS providers, websites accessibility and more. Ready to be analyzed with AI.
